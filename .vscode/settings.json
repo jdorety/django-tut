@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/jonathan/.local/share/virtualenvs/django-tut-cZgF1EXU/bin/python",
+    "python.formatting.provider": "black"
+}
